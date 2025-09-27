@@ -6,5 +6,6 @@
     "origin": "https://github.com/BackstepJedi/ADS_repo_test.git",
     "url": "https://github.com/BackstepJedi/ADS_repo_test.git",
     "imagefile": "",
-    "prefix": "This is a repo for test templates for AMP  - Made with AMP Config Generator"
+    "prefix": "This is a repo for test templates for AMP  - Made with AMP Config Generator",
+    "repotype": "AppTemplates"
 }
