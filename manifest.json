@@ -1,11 +1,10 @@
 {
     "id": "54e44f58-21a3-4b2b-9dea-be5095f0d4ad",
-    "authors": [
-        "This is a repo for test templates for AMP  - Made with AMP Config Generator"
-    ],
+    "authors": ["BackstepJedi"],
     "origin": "https://github.com/BackstepJedi/ADS_repo_test.git",
     "url": "https://github.com/BackstepJedi/ADS_repo_test.git",
     "imagefile": "",
-    "prefix": "This is a repo for test templates for AMP  - Made with AMP Config Generator",
+    "prefix": "BackstepJedi0123",
     "repotype": "AppTemplates"
 }
+
